@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-size: 150px;
+    color: goldenrod;
+    font-family: Helvetica;
+    font-weight: bold;
+    background-image: url(https://www.usda.gov/sites/default/files/alexander.jpg)
+
+}
+
+p {
+    font-family: Helvetica;
+}
+
+.box h2 {
+    background-color: lightslategray;
+}
+
+.liquor-stand h2 {
+    background-color: lightslategray;  
+}
+
+.flags h2 {
+    background-color: lightslategray;
+}
+
+h2 {
+    color: black;
+    font-family: Helvetica;
+}
